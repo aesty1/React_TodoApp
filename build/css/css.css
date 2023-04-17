@@ -1,0 +1,32 @@
+#root {
+    max-width: 400px;
+    margin: 0 auto;
+}
+* {
+    text-align: center;
+}
+.search-panel {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.todo__list-item {
+    list-style-type: none;
+    width: 300px;
+    height: 40px;
+    border: 1px solid #E0E0E0;
+    margin:  auto;
+    margin-left: 20px;
+    display: flex;
+}
+.todo__list-item span {
+
+    margin: auto auto auto 20px;
+}
+.todo_list__button {
+    
+}
+.todo_list__button-img {
+    height: 20px;
+    width: 20px;
+    margin: auto;
+}
